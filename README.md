@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 164 | 19 |
+| 165 | 19 |
 
 ---
 
@@ -23,9 +23,9 @@
 - [dsu](#dsu) (1)
 - [games](#games) (6)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (80)
+- [greedy](#greedy) (81)
 - [implementation](#implementation) (37)
-- [math](#math) (76)
+- [math](#math) (77)
 - [number theory](#number-theory) (23)
 - [sortings](#sortings) (29)
 - [strings](#strings) (16)
@@ -238,6 +238,7 @@
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
+| 1731B | [Kill Demodogs](https://codeforces.com/contest/1731/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1731/B%20-%20Kill%20Demodogs/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
@@ -363,6 +364,7 @@
 | 1708B | [Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1708/B%20-%20Difference%20of%20GCDs/solution.cpp) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
+| 1731B | [Kill Demodogs](https://codeforces.com/contest/1731/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1731/B%20-%20Kill%20Demodogs/solution.cpp) |
 | 1765M | [Minimum LCM](https://codeforces.com/contest/1765/problem/M) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1765/M%20-%20Minimum%20LCM/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
