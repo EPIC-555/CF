@@ -277,24 +277,21 @@ void solve(){
     vi v(n);
     cin>>v;
  
-int ans = -1;
- 
-for (int i = 0; i < n; i++) {
-    if (v[i] != i) {
-        if (ans == -1)
-            ans = i;
-        else
-            ans &= i;
- 
-        ans &= v[i];
+    vi mismatch;
+    for(int i=0;i<n;i++){
+        if(v[i]!=i) mismatch.push_back(i);
     }
+ 
+ int ans = mismatch[0];
+for (int i = 1; i < mismatch.size(); i++) {
+    ans &= mismatch[i];
 }
  
-if (ans == -1)
-    ans = 0;
+if (mismatch.empty()) ans = 0;
  
 cout << ans << '
 ';
+    
 }
  
 int32_t main()
