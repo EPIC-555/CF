@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 174 | 20 |
+| 175 | 20 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (10)
 - [bitmasks](#bitmasks) (7)
-- [brute force](#brute-force) (40)
+- [brute force](#brute-force) (41)
 - [combinatorics](#combinatorics) (6)
 - [constructive algorithms](#constructive-algorithms) (37)
 - [data structures](#data-structures) (5)
@@ -24,12 +24,12 @@
 - [dsu](#dsu) (1)
 - [games](#games) (6)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (85)
+- [greedy](#greedy) (86)
 - [implementation](#implementation) (39)
 - [math](#math) (79)
 - [number theory](#number-theory) (24)
 - [sortings](#sortings) (31)
-- [strings](#strings) (16)
+- [strings](#strings) (17)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (14)
 
@@ -78,6 +78,7 @@
 | 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
+| 1673B | [A Perfectly Balanced String?](https://codeforces.com/contest/1673/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1673/B%20-%20A%20Perfectly%20Balanced%20String%3F/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
 | 1742D | [Coprime](https://codeforces.com/contest/1742/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1742/D%20-%20Coprime/solution.cpp) |
@@ -249,6 +250,7 @@
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1666D | [Deletive Editing](https://codeforces.com/contest/1666/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1666/D%20-%20Deletive%20Editing/solution.cpp) |
+| 1673B | [A Perfectly Balanced String?](https://codeforces.com/contest/1673/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1673/B%20-%20A%20Perfectly%20Balanced%20String%3F/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
@@ -518,6 +520,7 @@
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1606/A%20-%20AB%20Balance/solution.cpp) |
+| 1673B | [A Perfectly Balanced String?](https://codeforces.com/contest/1673/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1673/B%20-%20A%20Perfectly%20Balanced%20String%3F/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
