@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 178 | 20 |
+| 179 | 20 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (11)
 - [bitmasks](#bitmasks) (7)
-- [brute force](#brute-force) (42)
+- [brute force](#brute-force) (43)
 - [combinatorics](#combinatorics) (6)
 - [constructive algorithms](#constructive-algorithms) (37)
 - [data structures](#data-structures) (7)
@@ -24,7 +24,7 @@
 - [dsu](#dsu) (1)
 - [games](#games) (6)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (88)
+- [greedy](#greedy) (89)
 - [implementation](#implementation) (40)
 - [math](#math) (79)
 - [number theory](#number-theory) (24)
@@ -91,6 +91,7 @@
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
+| 1821B | [Sort the Subarray](https://codeforces.com/contest/1821/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1821/B%20-%20Sort%20the%20Subarray/solution.cpp) |
 | 1826D | [Running Miles](https://codeforces.com/contest/1826/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/1826/D%20-%20Running%20Miles/solution.cpp) |
 | 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
@@ -277,6 +278,7 @@
 | 1797B | [Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1797/B%20-%20Li%20Hua%20and%20Pattern/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
+| 1821B | [Sort the Subarray](https://codeforces.com/contest/1821/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1821/B%20-%20Sort%20the%20Subarray/solution.cpp) |
 | 1826D | [Running Miles](https://codeforces.com/contest/1826/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/1826/D%20-%20Running%20Miles/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
