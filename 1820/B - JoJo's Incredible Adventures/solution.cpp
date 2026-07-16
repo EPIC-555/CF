@@ -284,7 +284,7 @@ void solve(){
     s+=s;
  
     int c=1;
-    int m=0;
+    int m=1;
     for(int i=1;i<s.size();i++){
         if(s[i]=='1' && s[i]==s[i-1] ) {
             c++;
@@ -292,7 +292,6 @@ void solve(){
         }
         else{
         c=1;
-        m=max(m,c);
     }
     }
     int ans1= (m+1)/2;
