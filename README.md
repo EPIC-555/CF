@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 182 | 21 |
+| 183 | 21 |
 
 ---
 
@@ -15,21 +15,21 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (11)
 - [bitmasks](#bitmasks) (8)
-- [brute force](#brute-force) (43)
+- [brute force](#brute-force) (44)
 - [combinatorics](#combinatorics) (6)
 - [constructive algorithms](#constructive-algorithms) (37)
 - [data structures](#data-structures) (7)
 - [dfs and similar](#dfs-and-similar) (3)
-- [dp](#dp) (13)
+- [dp](#dp) (14)
 - [dsu](#dsu) (1)
 - [games](#games) (6)
 - [geometry](#geometry) (4)
-- [greedy](#greedy) (90)
-- [implementation](#implementation) (40)
+- [greedy](#greedy) (91)
+- [implementation](#implementation) (41)
 - [math](#math) (82)
 - [number theory](#number-theory) (24)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (32)
+- [sortings](#sortings) (33)
 - [strings](#strings) (18)
 - [trees](#trees) (2)
 - [two pointers](#two-pointers) (16)
@@ -105,6 +105,7 @@
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
 | 2156B | [Strange Machine](https://codeforces.com/contest/2156/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/2156/B%20-%20Strange%20Machine/solution.cpp) |
@@ -206,6 +207,7 @@
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 2179B | [Blackslex and Showering](https://codeforces.com/contest/2179/problem/B) | 800 | [GNU C11](https://github.com/EPIC-555/CF/blob/HEAD/2179/B%20-%20Blackslex%20and%20Showering/solution.c) |
 | 2182C | [Production of Snowmen](https://codeforces.com/contest/2182/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/2182/C%20-%20Production%20of%20Snowmen/solution.cpp) |
@@ -303,6 +305,7 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 2154A | [Notelock](https://codeforces.com/contest/2154/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/2154/A%20-%20Notelock/solution.cpp) |
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
 | 2156B | [Strange Machine](https://codeforces.com/contest/2156/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/2156/B%20-%20Strange%20Machine/solution.cpp) |
@@ -361,6 +364,7 @@
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 2121D | [1709](https://codeforces.com/contest/2121/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/2121/D%20-%201709/solution.cpp) |
 | 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
 | 2156B | [Strange Machine](https://codeforces.com/contest/2156/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/2156/B%20-%20Strange%20Machine/solution.cpp) |
@@ -526,6 +530,7 @@
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 2121D | [1709](https://codeforces.com/contest/2121/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/2121/D%20-%201709/solution.cpp) |
 | 2157A | [Dungeon Equilibrium](https://codeforces.com/contest/2157/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/2157/A%20-%20Dungeon%20Equilibrium/solution.cpp) |
 | 2164A | [Sequence Game](https://codeforces.com/contest/2164/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/2164/A%20-%20Sequence%20Game/solution.cpp) |
