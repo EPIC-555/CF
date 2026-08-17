@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 188 | 21 |
+| 189 | 21 |
 
 ---
 
@@ -18,13 +18,13 @@
 - [brute force](#brute-force) (44)
 - [combinatorics](#combinatorics) (6)
 - [constructive algorithms](#constructive-algorithms) (38)
-- [data structures](#data-structures) (7)
+- [data structures](#data-structures) (8)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (14)
 - [dsu](#dsu) (1)
 - [games](#games) (6)
 - [geometry](#geometry) (4)
-- [greedy](#greedy) (93)
+- [greedy](#greedy) (94)
 - [implementation](#implementation) (43)
 - [math](#math) (83)
 - [number theory](#number-theory) (25)
@@ -188,6 +188,7 @@
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
 
 ### dfs and similar
 
@@ -337,6 +338,7 @@
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.cpp) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
 
