@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 192 | 21 |
+| 193 | 21 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (11)
 - [bitmasks](#bitmasks) (9)
-- [brute force](#brute-force) (44)
+- [brute force](#brute-force) (45)
 - [combinatorics](#combinatorics) (6)
 - [constructive algorithms](#constructive-algorithms) (38)
 - [data structures](#data-structures) (8)
@@ -30,7 +30,7 @@
 - [number theory](#number-theory) (25)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (37)
-- [strings](#strings) (19)
+- [strings](#strings) (20)
 - [trees](#trees) (2)
 - [two pointers](#two-pointers) (17)
 
@@ -122,6 +122,7 @@
 | 2228C1 | [Cirno and Number (Easy Version)](https://codeforces.com/contest/2228/problem/C1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2228/C1%20-%20Cirno%20and%20Number%20(Easy%20Version)/solution.cpp) |
 | 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.cpp) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 
 ### combinatorics
 
@@ -582,6 +583,7 @@
 | 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/EPIC-555/CF/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.cpp) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 
 ### trees
 
