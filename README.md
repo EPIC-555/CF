@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 191 | 21 |
+| 192 | 21 |
 
 ---
 
@@ -26,10 +26,10 @@
 - [geometry](#geometry) (4)
 - [greedy](#greedy) (95)
 - [implementation](#implementation) (43)
-- [math](#math) (84)
+- [math](#math) (85)
 - [number theory](#number-theory) (25)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (36)
+- [sortings](#sortings) (37)
 - [strings](#strings) (19)
 - [trees](#trees) (2)
 - [two pointers](#two-pointers) (17)
@@ -479,6 +479,7 @@
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### number theory
 
@@ -556,6 +557,7 @@
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### strings
 
