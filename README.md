@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 7 |
+| 5 | 10 |
 
 ---
 
@@ -15,6 +15,9 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [dfs and similar](#dfs-and-similar) (1)
+- [dsu](#dsu) (1)
+- [graphs](#graphs) (1)
 - [greedy](#greedy) (2)
 - [math](#math) (2)
 - [sortings](#sortings) (1)
@@ -39,6 +42,24 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
+
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 977E | [Cyclic Components](https://codeforces.com/contest/977/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/977/E%20-%20Cyclic%20Components/solution.cpp) |
+
+### dsu
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 977E | [Cyclic Components](https://codeforces.com/contest/977/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/977/E%20-%20Cyclic%20Components/solution.cpp) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 977E | [Cyclic Components](https://codeforces.com/contest/977/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/977/E%20-%20Cyclic%20Components/solution.cpp) |
 
 ### greedy
 
