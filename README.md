@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 13 |
+| 11 | 14 |
 
 ---
 
@@ -22,7 +22,8 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (1)
-- [math](#math) (3)
+- [math](#math) (4)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (2)
 
@@ -100,8 +101,15 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1420B | [Rock and Lever](https://codeforces.com/contest/1420/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1420/B%20-%20Rock%20and%20Lever/solution.cpp) |
+| 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.cpp) |
 | 2022B | [Kar Salesman](https://codeforces.com/contest/2022/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2022/B%20-%20Kar%20Salesman/solution.cpp) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.cpp) |
 
 ### sortings
 
