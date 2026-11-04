@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 16 |
+| 20 | 16 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [dfs and similar](#dfs-and-similar) (1)
 - [dsu](#dsu) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (8)
+- [greedy](#greedy) (9)
 - [implementation](#implementation) (2)
 - [math](#math) (6)
 - [number theory](#number-theory) (1)
@@ -108,6 +108,7 @@
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 | 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.cpp) |
+| 2278C | [Math and Physics](https://codeforces.com/contest/2278/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2278/C%20-%20Math%20and%20Physics/solution.cpp) |
 
 ### implementation
 
