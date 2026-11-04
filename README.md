@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 16 |
+| 18 | 16 |
 
 ---
 
@@ -22,11 +22,11 @@
 - [dsu](#dsu) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [math](#math) (6)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (1)
-- [strings](#strings) (4)
+- [sortings](#sortings) (2)
+- [strings](#strings) (5)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -112,6 +112,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.cpp) |
+| 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 
 ### math
 
@@ -135,6 +136,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
+| 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 
 ### strings
 
@@ -144,6 +146,7 @@
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.cpp) |
 | 2149D | [A and B](https://codeforces.com/contest/2149/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2149/D%20-%20A%20and%20B/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
+| 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 
 ### two pointers
 
