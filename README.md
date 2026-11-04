@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 16 |
+| 16 | 16 |
 
 ---
 
@@ -15,8 +15,8 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (3)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [brute force](#brute-force) (4)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dsu](#dsu) (1)
@@ -26,7 +26,7 @@
 - [math](#math) (5)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (3)
+- [strings](#strings) (4)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -57,6 +57,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1536B | [Prinzessin der Verurteilung](https://codeforces.com/contest/1536/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1536/B%20-%20Prinzessin%20der%20Verurteilung/solution.cpp) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.cpp) |
 | 2112C | [Coloring Game](https://codeforces.com/contest/2112/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2112/C%20-%20Coloring%20Game/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
@@ -65,6 +66,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1536B | [Prinzessin der Verurteilung](https://codeforces.com/contest/1536/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1536/B%20-%20Prinzessin%20der%20Verurteilung/solution.cpp) |
 | 2158B | [Split](https://codeforces.com/contest/2158/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2158/B%20-%20Split/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 
@@ -136,6 +138,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1536B | [Prinzessin der Verurteilung](https://codeforces.com/contest/1536/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1536/B%20-%20Prinzessin%20der%20Verurteilung/solution.cpp) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.cpp) |
 | 2149D | [A and B](https://codeforces.com/contest/2149/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2149/D%20-%20A%20and%20B/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
