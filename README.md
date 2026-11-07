@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 17 |
+| 25 | 17 |
 
 ---
 
@@ -22,9 +22,9 @@
 - [dp](#dp) (1)
 - [dsu](#dsu) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (10)
+- [greedy](#greedy) (11)
 - [implementation](#implementation) (2)
-- [math](#math) (6)
+- [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (5)
@@ -112,6 +112,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1271B | [Blocks](https://codeforces.com/contest/1271/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1271/B%20-%20Blocks/solution.cpp) |
 | 2022B | [Kar Salesman](https://codeforces.com/contest/2022/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2022/B%20-%20Kar%20Salesman/solution.cpp) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.cpp) |
 | 2064C | [Remove the Ends](https://codeforces.com/contest/2064/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2064/C%20-%20Remove%20the%20Ends/solution.cpp) |
@@ -134,6 +135,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1271B | [Blocks](https://codeforces.com/contest/1271/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1271/B%20-%20Blocks/solution.cpp) |
 | 1420B | [Rock and Lever](https://codeforces.com/contest/1420/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1420/B%20-%20Rock%20and%20Lever/solution.cpp) |
 | 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.cpp) |
 | 1491B | [Minimal Cost](https://codeforces.com/contest/1491/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1491/B%20-%20Minimal%20Cost/solution.cpp) |
