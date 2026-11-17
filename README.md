@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 18 |
+| 33 | 18 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [dp](#dp) (3)
 - [dsu](#dsu) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (15)
+- [greedy](#greedy) (16)
 - [implementation](#implementation) (6)
 - [math](#math) (11)
 - [number theory](#number-theory) (2)
@@ -117,6 +117,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1046C | [Space Formula](https://codeforces.com/contest/1046/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1046/C%20-%20Space%20Formula/solution.cpp) |
 | 1266C | [Diverse Matrix](https://codeforces.com/contest/1266/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1266/C%20-%20Diverse%20Matrix/solution.cpp) |
 | 1271B | [Blocks](https://codeforces.com/contest/1271/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1271/B%20-%20Blocks/solution.cpp) |
 | 1285B | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1285/B%20-%20Just%20Eat%20It!/solution.cpp) |
