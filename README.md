@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 18 |
+| 35 | 18 |
 
 ---
 
@@ -18,16 +18,16 @@
 - [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (1)
-- [dfs and similar](#dfs-and-similar) (1)
+- [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (3)
-- [dsu](#dsu) (1)
-- [graphs](#graphs) (1)
-- [greedy](#greedy) (17)
-- [implementation](#implementation) (7)
+- [dsu](#dsu) (2)
+- [graphs](#graphs) (2)
+- [greedy](#greedy) (18)
+- [implementation](#implementation) (8)
 - [math](#math) (11)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
-- [strings](#strings) (5)
+- [strings](#strings) (6)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (1)
 
@@ -93,6 +93,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 977E | [Cyclic Components](https://codeforces.com/contest/977/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/977/E%20-%20Cyclic%20Components/solution.cpp) |
+| 1735C | [Phase Shift](https://codeforces.com/contest/1735/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1735/C%20-%20Phase%20Shift/solution.cpp) |
 
 ### dp
 
@@ -107,12 +108,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 977E | [Cyclic Components](https://codeforces.com/contest/977/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/977/E%20-%20Cyclic%20Components/solution.cpp) |
+| 1735C | [Phase Shift](https://codeforces.com/contest/1735/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1735/C%20-%20Phase%20Shift/solution.cpp) |
 
 ### graphs
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 977E | [Cyclic Components](https://codeforces.com/contest/977/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/977/E%20-%20Cyclic%20Components/solution.cpp) |
+| 1735C | [Phase Shift](https://codeforces.com/contest/1735/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1735/C%20-%20Phase%20Shift/solution.cpp) |
 
 ### greedy
 
@@ -125,6 +128,7 @@
 | 1285B | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1285/B%20-%20Just%20Eat%20It!/solution.cpp) |
 | 1422B | [Nice Matrix](https://codeforces.com/contest/1422/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1422/B%20-%20Nice%20Matrix/solution.cpp) |
 | 1733D1 | [Zero-One (Easy Version)](https://codeforces.com/contest/1733/problem/D1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1733/D1%20-%20Zero-One%20(Easy%20Version)/solution.cpp) |
+| 1735C | [Phase Shift](https://codeforces.com/contest/1735/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1735/C%20-%20Phase%20Shift/solution.cpp) |
 | 2022B | [Kar Salesman](https://codeforces.com/contest/2022/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2022/B%20-%20Kar%20Salesman/solution.cpp) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.cpp) |
 | 2064C | [Remove the Ends](https://codeforces.com/contest/2064/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2064/C%20-%20Remove%20the%20Ends/solution.cpp) |
@@ -144,6 +148,7 @@
 | 1285B | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1285/B%20-%20Just%20Eat%20It!/solution.cpp) |
 | 1422B | [Nice Matrix](https://codeforces.com/contest/1422/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1422/B%20-%20Nice%20Matrix/solution.cpp) |
 | 1556B | [Take Your Places!](https://codeforces.com/contest/1556/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1556/B%20-%20Take%20Your%20Places!/solution.cpp) |
+| 1735C | [Phase Shift](https://codeforces.com/contest/1735/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1735/C%20-%20Phase%20Shift/solution.cpp) |
 | 1766C | [Hamiltonian Wall](https://codeforces.com/contest/1766/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1766/C%20-%20Hamiltonian%20Wall/solution.cpp) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.cpp) |
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
@@ -184,6 +189,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1536B | [Prinzessin der Verurteilung](https://codeforces.com/contest/1536/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1536/B%20-%20Prinzessin%20der%20Verurteilung/solution.cpp) |
+| 1735C | [Phase Shift](https://codeforces.com/contest/1735/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1735/C%20-%20Phase%20Shift/solution.cpp) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.cpp) |
 | 2149D | [A and B](https://codeforces.com/contest/2149/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2149/D%20-%20A%20and%20B/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
