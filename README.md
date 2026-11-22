@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 18 |
+| 38 | 18 |
 
 ---
 
@@ -19,10 +19,10 @@
 - [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (4)
+- [dp](#dp) (5)
 - [dsu](#dsu) (2)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (19)
+- [greedy](#greedy) (20)
 - [implementation](#implementation) (8)
 - [math](#math) (13)
 - [number theory](#number-theory) (2)
@@ -99,6 +99,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1276A | [As Simple as One and Two](https://codeforces.com/contest/1276/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1276/A%20-%20As%20Simple%20as%20One%20and%20Two/solution.cpp) |
 | 1285B | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1285/B%20-%20Just%20Eat%20It!/solution.cpp) |
 | 1443B | [Saving the City](https://codeforces.com/contest/1443/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1443/B%20-%20Saving%20the%20City/solution.cpp) |
 | 1766C | [Hamiltonian Wall](https://codeforces.com/contest/1766/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1766/C%20-%20Hamiltonian%20Wall/solution.cpp) |
@@ -126,6 +127,7 @@
 | 1236C | [Labs](https://codeforces.com/contest/1236/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1236/C%20-%20Labs/solution.cpp) |
 | 1266C | [Diverse Matrix](https://codeforces.com/contest/1266/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1266/C%20-%20Diverse%20Matrix/solution.cpp) |
 | 1271B | [Blocks](https://codeforces.com/contest/1271/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1271/B%20-%20Blocks/solution.cpp) |
+| 1276A | [As Simple as One and Two](https://codeforces.com/contest/1276/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1276/A%20-%20As%20Simple%20as%20One%20and%20Two/solution.cpp) |
 | 1285B | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1285/B%20-%20Just%20Eat%20It!/solution.cpp) |
 | 1422B | [Nice Matrix](https://codeforces.com/contest/1422/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1422/B%20-%20Nice%20Matrix/solution.cpp) |
 | 1443B | [Saving the City](https://codeforces.com/contest/1443/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1443/B%20-%20Saving%20the%20City/solution.cpp) |
