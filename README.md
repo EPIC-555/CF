@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 18 |
+| 39 | 18 |
 
 ---
 
@@ -22,8 +22,8 @@
 - [dp](#dp) (5)
 - [dsu](#dsu) (2)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (20)
-- [implementation](#implementation) (8)
+- [greedy](#greedy) (21)
+- [implementation](#implementation) (9)
 - [math](#math) (13)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (4)
@@ -133,6 +133,7 @@
 | 1443B | [Saving the City](https://codeforces.com/contest/1443/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1443/B%20-%20Saving%20the%20City/solution.cpp) |
 | 1733D1 | [Zero-One (Easy Version)](https://codeforces.com/contest/1733/problem/D1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1733/D1%20-%20Zero-One%20(Easy%20Version)/solution.cpp) |
 | 1735C | [Phase Shift](https://codeforces.com/contest/1735/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1735/C%20-%20Phase%20Shift/solution.cpp) |
+| 1932D | [Card Game](https://codeforces.com/contest/1932/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1932/D%20-%20Card%20Game/solution.cpp) |
 | 2022B | [Kar Salesman](https://codeforces.com/contest/2022/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2022/B%20-%20Kar%20Salesman/solution.cpp) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.cpp) |
 | 2064C | [Remove the Ends](https://codeforces.com/contest/2064/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2064/C%20-%20Remove%20the%20Ends/solution.cpp) |
@@ -154,6 +155,7 @@
 | 1556B | [Take Your Places!](https://codeforces.com/contest/1556/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1556/B%20-%20Take%20Your%20Places!/solution.cpp) |
 | 1735C | [Phase Shift](https://codeforces.com/contest/1735/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1735/C%20-%20Phase%20Shift/solution.cpp) |
 | 1766C | [Hamiltonian Wall](https://codeforces.com/contest/1766/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1766/C%20-%20Hamiltonian%20Wall/solution.cpp) |
+| 1932D | [Card Game](https://codeforces.com/contest/1932/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1932/D%20-%20Card%20Game/solution.cpp) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.cpp) |
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 
