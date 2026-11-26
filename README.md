@@ -6,27 +6,27 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 18 |
+| 40 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (6)
-- [binary search](#binary-search) (2)
+- [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (6)
+- [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (5)
 - [dsu](#dsu) (2)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (21)
+- [greedy](#greedy) (22)
 - [implementation](#implementation) (9)
 - [math](#math) (13)
 - [number theory](#number-theory) (2)
-- [sortings](#sortings) (4)
+- [sortings](#sortings) (5)
 - [strings](#strings) (6)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (1)
@@ -48,6 +48,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1530C | [Pursuit](https://codeforces.com/contest/1530/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1530/C%20-%20Pursuit/solution.cpp) |
 | 2022B | [Kar Salesman](https://codeforces.com/contest/2022/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2022/B%20-%20Kar%20Salesman/solution.cpp) |
 | 2112C | [Coloring Game](https://codeforces.com/contest/2112/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2112/C%20-%20Coloring%20Game/solution.cpp) |
 
@@ -63,6 +64,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1491B | [Minimal Cost](https://codeforces.com/contest/1491/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1491/B%20-%20Minimal%20Cost/solution.cpp) |
+| 1530C | [Pursuit](https://codeforces.com/contest/1530/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1530/C%20-%20Pursuit/solution.cpp) |
 | 1536B | [Prinzessin der Verurteilung](https://codeforces.com/contest/1536/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1536/B%20-%20Prinzessin%20der%20Verurteilung/solution.cpp) |
 | 2048C | [Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2048/C%20-%20Kevin%20and%20Binary%20Strings/solution.cpp) |
 | 2064C | [Remove the Ends](https://codeforces.com/contest/2064/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2064/C%20-%20Remove%20the%20Ends/solution.cpp) |
@@ -131,6 +133,7 @@
 | 1285B | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1285/B%20-%20Just%20Eat%20It!/solution.cpp) |
 | 1422B | [Nice Matrix](https://codeforces.com/contest/1422/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1422/B%20-%20Nice%20Matrix/solution.cpp) |
 | 1443B | [Saving the City](https://codeforces.com/contest/1443/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1443/B%20-%20Saving%20the%20City/solution.cpp) |
+| 1530C | [Pursuit](https://codeforces.com/contest/1530/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1530/C%20-%20Pursuit/solution.cpp) |
 | 1733D1 | [Zero-One (Easy Version)](https://codeforces.com/contest/1733/problem/D1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1733/D1%20-%20Zero-One%20(Easy%20Version)/solution.cpp) |
 | 1735C | [Phase Shift](https://codeforces.com/contest/1735/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1735/C%20-%20Phase%20Shift/solution.cpp) |
 | 1932D | [Card Game](https://codeforces.com/contest/1932/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1932/D%20-%20Card%20Game/solution.cpp) |
@@ -189,6 +192,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1443B | [Saving the City](https://codeforces.com/contest/1443/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1443/B%20-%20Saving%20the%20City/solution.cpp) |
+| 1530C | [Pursuit](https://codeforces.com/contest/1530/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1530/C%20-%20Pursuit/solution.cpp) |
 | 1857D | [Strong Vertices](https://codeforces.com/contest/1857/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/1857/D%20-%20Strong%20Vertices/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/EPIC-555/CF/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
